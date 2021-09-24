@@ -1,16 +1,25 @@
-# componentes
+<h1>App Componentes</h1>
+<ul>
+  <li type="circle">Developer: <a href="https://www.linkedin.com/in/johan-zambrano-b537501bb/">Johan Zambrano</a></li>
+</ul>
 
-A new Flutter project.
+A mobile app created with Flutter
+<ul>
+  <li type="circle">Shows the most used components</li>
+</ul>
 
-## Getting Started
+<ul>
+  <li type="circle"><h3>Android</h3></li>
+</ul>
 
-This project is a starting point for a Flutter application.
+![Screenshot_20210924-112704](https://user-images.githubusercontent.com/25967495/134709432-e4830f4f-2a13-4c8c-8caa-dce1039f40dc.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+<h2>Get packages</h2>
+<ul>
+  <li type="circle"><h3>flutter packages get</h3></li>
+</ul>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>Run App</h2>
+<ul>
+  <li type="circle"><h3>Flutter run</h3></li>
+</ul>
