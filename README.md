@@ -12,7 +12,9 @@ A mobile app created with Flutter
   <li type="circle"><h3>Android</h3></li>
 </ul>
 
-![Screenshot_20210924-112704](https://user-images.githubusercontent.com/25967495/134709432-e4830f4f-2a13-4c8c-8caa-dce1039f40dc.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/25967495/134709432-e4830f4f-2a13-4c8c-8caa-dce1039f40dc.jpg" width="250" height="500">
+</p>
 
 <h2>Get packages</h2>
 <ul>
