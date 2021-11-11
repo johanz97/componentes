@@ -1,4 +1,4 @@
-<h1>App Componentes</h1>
+<h1>Components App</h1>
 <ul>
   <li type="circle">Developer: <a href="https://www.linkedin.com/in/johan-zambrano-b537501bb/">Johan Zambrano</a></li>
 </ul>
